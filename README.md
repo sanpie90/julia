@@ -13,5 +13,8 @@ Vous avez deux possibilités :
 
 ## Pour acceder aux exercices
 - Cloner le repo git qui contient le notebook et les données : train et test.
-- Ouvrir le notebook Julia - first steps avec Jupyter Notebook (Si tu utilises Julia box : <em>upload</em> le notebook et les données dans Julia box)
-- Suivre les exercices.
+- Ouvrir le jupyter notebook (Si tu utilises Julia box : <em>upload</em> les notebooks et les données dans Julia box)
+- Cochez les extensions Exercice 2 et Table of Contents (2)
+- Ouvrir le notebook : Julia - first steps - Basic Operations.ipynb
+- Suivre les exercices dans l'ordre : Basic Operations -> Dataframes -> Machine Learning
+  
